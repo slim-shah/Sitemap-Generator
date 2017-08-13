@@ -1,7 +1,7 @@
 # Sitemap-Generator
 <b>Sitemap Generator is extended version of web crawler made by Bucky Roberts </b><br> (Github link: https://github.com/buckyroberts/Spider) 
 <br> This bot allows you to <b>extract keywords from website </b> and store it in separate dictionary file <b>dict.txt</b> for indexing it in future. In addition,
-it also <b>generates sitemap.html to view all links collected graphically.</b>
+it also <b>generates sitemap.html to view all collected links.</b>
 <br>
 <h3>FootNotes:</h3>
 <ul>
